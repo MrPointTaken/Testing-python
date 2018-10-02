@@ -1,5 +1,5 @@
 # code = text.delete(1.0,END)
-# Copyright: Andre Bertelsen Lund, as owner.
+# Copyright:  @2018.
 
 import math
 import base64
